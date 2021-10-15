@@ -1,0 +1,14 @@
+{
+  "appId": "carga.credito",
+  "appName": "CargaCredito",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2500,
+      "FadeSplashScreen": "false"
+    }
+  },
+  "cordova": {}
+}
